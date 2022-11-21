@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a78479bb.chunk.css",
+    "main.js": "/static/js/main.730b75c6.chunk.js",
+    "main.js.map": "/static/js/main.730b75c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.043fe699.js",
+    "runtime-main.js.map": "/static/js/runtime-main.043fe699.js.map",
+    "static/js/2.a09b5b40.chunk.js": "/static/js/2.a09b5b40.chunk.js",
+    "static/js/2.a09b5b40.chunk.js.map": "/static/js/2.a09b5b40.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.72feead1.chunk.js": "/static/js/3.72feead1.chunk.js",
+    "static/js/3.72feead1.chunk.js.map": "/static/js/3.72feead1.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.8575ba78.chunk.js": "/static/js/4.8575ba78.chunk.js",
+    "static/js/4.8575ba78.chunk.js.map": "/static/js/4.8575ba78.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3acd9c71a85e7d6fb213714486ef0687.js": "/precache-manifest.3acd9c71a85e7d6fb213714486ef0687.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.a78479bb.chunk.css.map": "/static/css/main.a78479bb.chunk.css.map",
+    "static/js/2.a09b5b40.chunk.js.LICENSE.txt": "/static/js/2.a09b5b40.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ISL.jpg": "/static/media/ISL.aa49b319.jpg",
+    "static/media/Imformal photo.jpg": "/static/media/Imformal photo.ec8c20dd.jpg",
+    "static/media/bips_logo.jpg": "/static/media/bips_logo.adfb8a92.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/ipl_logo.jpeg": "/static/media/ipl_logo.7f7f8610.jpeg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nptel.jpeg": "/static/media/nptel.182ea392.jpeg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043fe699.js",
+    "static/js/2.a09b5b40.chunk.js",
+    "static/css/main.a78479bb.chunk.css",
+    "static/js/main.730b75c6.chunk.js"
+  ]
+}
